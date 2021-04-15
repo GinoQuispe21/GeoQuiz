@@ -4,4 +4,8 @@
     <string name="si">Si</string>
     <string name="no">No</string>
     <string name="siguiente">Siguiente</string>
+    <string name="responde_las_sigueintes_10_preguntas_para_saber_que_tento_sabes_de_geografia">Responde las sigueintes 10 preguntas, para saber que tento sabes de geografia.</string>
+    <string name="vidas">Vidas</string>
+    <string name="textview">TextView</string>
+    <string name="reiniciar">Reiniciar</string>
 </resources>
